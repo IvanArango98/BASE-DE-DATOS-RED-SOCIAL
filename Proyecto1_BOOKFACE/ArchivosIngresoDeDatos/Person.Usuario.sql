@@ -1,0 +1,28 @@
+USE BOOKFACE;
+GO
+insert into Person.Usuario (Primer_Nombre, Segundo_Nombre, Primer_Apellido, Segundo_Apellido, Correo_Electronico, Fecha_Nacimiento, Fecha_Fin_Usuario) values ('Harper', 'Ginger', 'Vickress', 'Hankins', 'ghankins0@google.nl','1980-12-22', null);
+insert into Person.Usuario (Primer_Nombre, Segundo_Nombre, Primer_Apellido, Segundo_Apellido, Correo_Electronico, Fecha_Nacimiento, Fecha_Fin_Usuario) values ('Sanderson', 'Pavlov', 'Cadwell', 'Songest', 'psongest1@comsenz.com', '1990-12-07', null);
+insert into Person.Usuario (Primer_Nombre, Segundo_Nombre, Primer_Apellido, Segundo_Apellido, Correo_Electronico, Fecha_Nacimiento, Fecha_Fin_Usuario) values ('Townie', 'Nolly', 'Bogie', 'Labbet', 'nlabbet2@mail.ru', '1984-12-21', null);
+insert into Person.Usuario (Primer_Nombre, Segundo_Nombre, Primer_Apellido, Segundo_Apellido, Correo_Electronico, Fecha_Nacimiento, Fecha_Fin_Usuario) values ('Zollie', 'Reider', 'Gostage', 'Swepstone', 'rswepstone3@latimes.com', '1991-09-13',null);
+insert into Person.Usuario (Primer_Nombre, Segundo_Nombre, Primer_Apellido, Segundo_Apellido, Correo_Electronico, Fecha_Nacimiento, Fecha_Fin_Usuario) values ('Giulio', 'Caleb', 'Mickleburgh', 'Kilpatrick', 'ckilpatrick4@statcounter.com','1994-12-26', null);
+insert into Person.Usuario (Primer_Nombre, Segundo_Nombre, Primer_Apellido, Segundo_Apellido, Correo_Electronico, Fecha_Nacimiento, Fecha_Fin_Usuario) values ('Geno', 'Jarad', 'Brown', 'Hallums', 'jhallums5@thetimes.co.uk','1996-12-15', null);
+insert into Person.Usuario (Primer_Nombre, Segundo_Nombre, Primer_Apellido, Segundo_Apellido, Correo_Electronico, Fecha_Nacimiento, Fecha_Fin_Usuario) values ('Erhart', 'Lawry', 'Wicks', 'Cathie', 'lcathie6@tumblr.com', '1999-07-07', null);
+insert into Person.Usuario (Primer_Nombre, Segundo_Nombre, Primer_Apellido, Segundo_Apellido, Correo_Electronico, Fecha_Nacimiento, Fecha_Fin_Usuario) values ('Neils', 'Quillan', 'Kesteven', 'Kemm', 'qkemm7@epa.gov', '1998-09-05', null);
+insert into Person.Usuario (Primer_Nombre, Segundo_Nombre, Primer_Apellido, Segundo_Apellido, Correo_Electronico, Fecha_Nacimiento, Fecha_Fin_Usuario) values ('Thadeus', 'Manolo', 'Fonteyne', 'Lethebridge', 'mlethebridge8@earthlink.net','1994-09-06', null);
+insert into Person.Usuario (Primer_Nombre, Segundo_Nombre, Primer_Apellido, Segundo_Apellido, Correo_Electronico, Fecha_Nacimiento, Fecha_Fin_Usuario) values ('Stuart', 'Torey', 'Hicken', 'Sheaber', 'tsheaber9@wikipedia.org', '1992-11-06', null);
+insert into Person.Usuario (Primer_Nombre, Segundo_Nombre, Primer_Apellido, Segundo_Apellido, Correo_Electronico, Fecha_Nacimiento, Fecha_Fin_Usuario) values ('Barty', 'Raynor', 'Dufaire', 'Toby', 'rtobya@ucsd.edu',  '1984-12-15',null);
+insert into Person.Usuario (Primer_Nombre, Segundo_Nombre, Primer_Apellido, Segundo_Apellido, Correo_Electronico, Fecha_Nacimiento, Fecha_Fin_Usuario) values ('Freddy', 'Saxe', 'Scheu', 'Marthen', 'smarthenb@google.co.jp','1995-01-30', null);
+insert into Person.Usuario (Primer_Nombre, Segundo_Nombre, Primer_Apellido, Segundo_Apellido, Correo_Electronico, Fecha_Nacimiento, Fecha_Fin_Usuario) values ('Quincy', 'Billie', 'Tydd', 'Spinke', 'bspinkec@ezinearticles.com','1994-08-26', null);
+insert into Person.Usuario (Primer_Nombre, Segundo_Nombre, Primer_Apellido, Segundo_Apellido, Correo_Electronico, Fecha_Nacimiento, Fecha_Fin_Usuario) values ('Myrvyn', 'Anatol', 'Alfonso', 'Dyde', 'adyded@i2i.jp','1997-10-6', null);
+insert into Person.Usuario (Primer_Nombre, Segundo_Nombre, Primer_Apellido, Segundo_Apellido, Correo_Electronico, Fecha_Nacimiento, Fecha_Fin_Usuario) values ('Alaric', 'Davon', 'Iacomettii', 'Folker', 'dfolkere@mashable.com','1998-12-08', null);
+insert into Person.Usuario (Primer_Nombre, Segundo_Nombre, Primer_Apellido, Segundo_Apellido, Correo_Electronico, Fecha_Nacimiento, Fecha_Fin_Usuario) values ('Horacio', 'Humfried', 'Hartburn', 'McGowan', 'hmcgowanf@umn.edu','1999-10-17', null);
+insert into Person.Usuario (Primer_Nombre, Segundo_Nombre, Primer_Apellido, Segundo_Apellido, Correo_Electronico, Fecha_Nacimiento, Fecha_Fin_Usuario) values ('Ware', 'Dell', 'Crush', 'Boniface', 'dbonifaceg@washington.edu','1990-08-26', null);
+insert into Person.Usuario (Primer_Nombre, Segundo_Nombre, Primer_Apellido, Segundo_Apellido, Correo_Electronico, Fecha_Nacimiento, Fecha_Fin_Usuario) values ('Stanleigh', 'Timmie', 'Cussen', 'De Lorenzo', 'tdelorenzoh@mozilla.org','2000-09-20',null);
+insert into Person.Usuario (Primer_Nombre, Segundo_Nombre, Primer_Apellido, Segundo_Apellido, Correo_Electronico, Fecha_Nacimiento, Fecha_Fin_Usuario) values ('Ulric', 'Ansel', 'Tancock', 'Hobbema', 'ahobbemai@cornell.edu','1981-06-20', null);
+insert into Person.Usuario (Primer_Nombre, Segundo_Nombre, Primer_Apellido, Segundo_Apellido, Correo_Electronico, Fecha_Nacimiento, Fecha_Fin_Usuario) values ('Chick', 'Quinn', 'Jeannesson', 'Sharrem', 'qsharremj@discovery.com','1989-05-01', null);
+
+update Person.Usuario set Fecha_Creacion_Usuario = '2020-10-19 17:39:17.280' where ID_Usuario between 1 and 3
+update Person.Usuario set Fecha_Creacion_Usuario = '2020-10-20 17:39:17.280' where ID_Usuario between 4 and 6
+update Person.Usuario set Fecha_Creacion_Usuario = '2020-10-21 17:39:17.280' where ID_Usuario between 7 and 9
+update Person.Usuario set Fecha_Creacion_Usuario = '2020-10-22 17:39:17.280' where ID_Usuario between 10 and 13
+update Person.Usuario set Fecha_Creacion_Usuario = '2020-10-23 17:39:17.280' where ID_Usuario between 14 and 17
